@@ -15,6 +15,6 @@ If the embedded PDF is not displayed properly, please click here to download my 
 
 <center>
   <object data=
-"https://jeangjy.github.io/files/paper1.pdf#navpanes=0" width="700" height="600">
+"https://jeangjy.github.io/files/Jingyan Guo_CV_UCR_Draft 3.pdf#navpanes=0" width="700" height="600">
   </object>
 </center>
