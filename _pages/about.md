@@ -22,4 +22,4 @@ My research interests are in labor economics, development economics, economics o
 I have been working as the Graduate Student Researcher at
 [Inland Empire Labor and Community Center (IELCC)](https://ielcc.ucr.edu/people) since July 2023.
 
-My [CV](/cv) can be found here.
+<!-- My [CV](/cv) can be found here. -->
