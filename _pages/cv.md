@@ -9,13 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-</br>
-</br>
 <center>
-  <h3>CV</h3>
   <object data=
-"https://jeangjy.github.io/files/paper1.pdf#navpanes=0" 
-                width="800"
-                height="800">
+"https://jeangjy.github.io/files/paper1.pdf#navpanes=0" width="700" height="600">
   </object>
 </center>
