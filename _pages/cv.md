@@ -9,16 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-
-<iframe src="https://jeangjy.github.io/files/paper1.pdf" title="CV"></iframe>
-
 </br>
 </br>
 <center>
   <h3>CV</h3>
   <object data=
-"https://jeangjy.github.io/files/paper1.pdf" 
-                width="1200"
+"https://jeangjy.github.io/files/paper1.pdf#navpanes=0" 
+                width="800"
                 height="800">
   </object>
 </center>
