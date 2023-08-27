@@ -11,10 +11,10 @@ redirect_from:
 
 {% include base_path %}
 
-If the embedded PDF is not displayed properly, please click here to download my CV.
+If the embedded PDF is not displayed properly, please click here to download my [CV](https://jeangjy.github.io/files/Jingyan_Guo_CV_Aug_27_2023.pdf).
 
 <center>
   <object data=
-"https://jeangjy.github.io/files/Jingyan Guo_CV_UCR_Draft 3.pdf#navpanes=0" width="700" height="600">
+"https://jeangjy.github.io/files/Jingyan_Guo_CV_Aug_27_2023.pdf#navpanes=0" width="700" height="600">
   </object>
 </center>
