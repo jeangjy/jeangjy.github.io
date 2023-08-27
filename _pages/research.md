@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Research"
+title: "Working Papers"
 permalink: /research/
 ---
 
-# Working Papers
 ## Sleep and Fatal Vehicle Crashes: Evidence from Sunset Time in the United States
 Adequate sleep is critical for general healthy functioning. This paper studies how sleep affects fatal vehicle crashes. The sleep data is from American Time Use Survey (ATUS) and the vehicle fatality data is from Fatality Analysis Reporting System (FARS). Using sunset time as instrument, I find that a one-hour increase in monthly sleep leads to a decrease of about 0.035 fatal crashes per 100 million vehicle miles traveled (VMT), equivalent to a 2.4% reduction in fatalities in the short run. Alternatively scaled, an extra hour of daily sleep reduces one fatal crash in 2,724 years if one drives 100 miles per day. However, I find there is no significant long run effect of sleep on fatal vehicle crashes. Using spatial regression discontinuity in the timing of sunset at a time-zone boundary, I find that people sleep less if they live on the side of the time-zone border where the sunset time is later using data from 2004-2013 but the results are the opposite if using data from 2014-2019. Traffic fatality is lower on the side of late sunset using data from 2004-2013 and higher on the side of late sunset using data from 2014-2019.
 
