@@ -15,9 +15,7 @@ Welcome!
 
 I am a Ph.D. Candidate in Economics at University of California, Riverside.
 
-My research interests are Health Economics, Labor Economics, and Development Economics.
-
-My research interests are in labor economics, development economics, economics of education, and health economics.
+My research interests are in Health Economics, Labor Economics, and Development Economics.
 
 I have been working as the Graduate Student Researcher at
 [Inland Empire Labor and Community Center (IELCC)](https://ielcc.ucr.edu/people) since July 2023.
