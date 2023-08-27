@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+****
+
 {% include base_path %}
 
 If the embedded PDF is not displayed properly, please click here to download my CV.
