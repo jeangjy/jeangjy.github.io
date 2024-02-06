@@ -22,7 +22,7 @@ Using the fourth round of the Indian National Family Health Survey (NFHS- 4), an
 
 Using the Twitter data, American Time Use Survey (ATUS) on sleep, and satellite data on pollution, we aim to answer the following questions in our research: How does air pollution affect the sleep of people in the United States? Specially, we will use two instrument variables (IVs) including thermal inversion and Clean Air Act (CAA) to estimate the causal impact of pollution on sleep. With access to the Twitter data, our project aims to utilize tweets as a measure of sleep amount in the United States, and to study the impact of pollution on sleep. Furthermore, we will validate accuracy of measure from Twitter data by comparing it with survey data from the ATUS. The use of Twitter data has the potential to provide valuable insights into sleep patterns, especially in regions where sleep surveys are not readily available. It could be used in future studies to explore various topics on sleep quality and its associated health outcomes.
 
-## Non-peer-reviewd publication
+## Other Publication
 
 ### [The State of Work in the Inland Empire Part II: Pandemic, Polarization, Inflation, and Investment (November 2023)](https://ielcc.ucr.edu/sites/default/files/2023-11/State_of_Work_2023_11.15_V2.pdf) (with Michael Bates, Sara Bruene, Eric E. Calderon, Elvira De La Torre, Pedro Freire, Gregory B. Hutchins, KeAysia Jackson, Manisha Kapoor, Fatima Nelson, Zhuoyu Qiu, Ellen Reese, Gary Rettberg, and Beth C. Tamayose.)
 
