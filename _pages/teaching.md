@@ -22,7 +22,7 @@ author_profile: true
 ## Teaching Assistant, UC Riverside
 
 - Intermediate Microeconomics Theory (Fall 2020, Summer 2021 Session A, Summer 2021 Session B)
-- Introductory to Macroeconomics Theory (Spring 2021)
+- Introductory to Macroeconomics Theory (Spring 2021, Winter 2024)
 - Introductory to Microeconomics Theory (Winter 2021)
 
 ****
