@@ -24,7 +24,7 @@ Using the Twitter data, American Time Use Survey (ATUS) on sleep, and satellite 
 
 ## Other Publication
 
-### [The State of Work in the Inland Empire Part II: Pandemic, Polarization, Inflation, and Investment (November 2023)](https://ielcc.ucr.edu/sites/default/files/2023-11/State_of_Work_2023_11.15_V2.pdf) (with Michael Bates, Sara Bruene, Eric E. Calderon, Elvira De La Torre, Pedro Freire, Gregory B. Hutchins, KeAysia Jackson, Manisha Kapoor, Fatima Nelson, Zhuoyu Qiu, Ellen Reese, Gary Rettberg, and Beth C. Tamayose.)
+### [The State of Work in the Inland Empire Part II: Pandemic, Polarization, Inflation, and Investment (November 2023)](https://ielcc.ucr.edu/state-work-inland-empire-part-ii-pandemic-polarization-inflation-and-investment) (with Michael Bates, Sara Bruene, Eric E. Calderon, Elvira De La Torre, Pedro Freire, Gregory B. Hutchins, KeAysia Jackson, Manisha Kapoor, Fatima Nelson, Zhuoyu Qiu, Ellen Reese, Gary Rettberg, and Beth C. Tamayose.)
 
 This report provides a snapshot of the labor market and working conditions in the Inland Empire (IE). We document how changes over the last five years, including those related to investment, inflation, and the COVID-19 pandemic, have impacted workers’ employment outcomes, working conditions, and well-being. This analysis marries diverse perspectives from personal narratives from workers collected through in-depth interviews (collected in English and Spanish) with a vast array of quantitative data on labor market conditions.
 
