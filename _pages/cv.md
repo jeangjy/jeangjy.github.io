@@ -11,10 +11,10 @@ redirect_from:
 
 {% include base_path %}
 
-If the embedded PDF is not displayed properly, please click here to download my [CV](https://jingyanguo.com/files/Jingyan_Guo_CV_Feb_28_2024.pdf).
+If the embedded PDF is not displayed properly, please click here to download my [CV](https://jingyanguo.com/files/Jingyan_Guo_CV_Mar_6_2024.pdf).
 
 <center>
   <object data=
-"https://jingyanguo.com/files/Jingyan_Guo_CV_Feb_28_2024.pdf#navpanes=0" width="700" height="600">
+"https://jingyanguo.com/files/Jingyan_Guo_CV_Mar_6_2024.pdf#navpanes=0" width="700" height="600">
   </object>
 </center>
