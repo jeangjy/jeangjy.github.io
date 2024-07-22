@@ -13,9 +13,9 @@ redirect_from:
 
 Welcome!
 
-I am a Ph.D. Candidate in Economics at University of California, Riverside.
+I am a Ph.D. in Economics at University of California, Riverside.
 
 My research interests are in Health Economics, Labor Economics, and Development Economics.
 
-My [CV](https://jingyanguo.com/files/Jingyan_Guo_CV_May_7_2024.pdf) can be found here. 
+My [CV](https://jingyanguo.com/files/Jingyan_Guo_CV_July_22_2024.pdf) can be found here. 
 
