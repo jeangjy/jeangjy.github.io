@@ -29,6 +29,12 @@ This report provides a snapshot of the labor market and working conditions in th
 This report offers a comprehensive exploration of the Transportation, Distribution, and Logistics (TDL) sector in Southern California’s Inland Empire. This pivotal sector, integral to both national and global economies, includes transportation services, warehousing, and logistics services. Despite recent size decline, the TDL sector has shown rapid expansion over the last five years, particularly in warehousing and transportation, significantly impacting the region’s employment landscape.
 
 ****
+## Working Paper
+### Employment and Sleep Patterns
+
+This paper examines how employment rates affect sleep patterns, using data from the American Time Use Survey (ATUS) and Local Area Unemployment Statistics (LAUS) from 2003 to 2022. Research suggests that while weekday sleep is countercyclical, weekend sleep is procyclical, with employed individuals sleeping more on weekends to compensate for shorter weekday sleep. The results show that a 1 percentage point increase in the employment-to-population rate reduces average sleep duration by approximately 1 minute and weekday sleep by around 2 minutes. This effect is less pronounced when using the data from 2003-2022, likely due to the increase in telework following the COVID-19 pandemic. Additionally, industries with a higher concentration of telework experience smaller decreases in sleep with increasing employment. Heterogeneous analysis shows that minorities, less educated individuals, women, and single adults face greater reductions in sleep during weekdays.
+
+****
 ## Work in Progress
 ### How does Air Pollution Affect Sleep? Survey and Social Media Evidence from the United States (with [Da Gong](https://dadasmash.github.io/dagong.github.io//), Zhuocheng Shang)
 
