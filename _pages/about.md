@@ -15,7 +15,7 @@ Welcome!
 
 I am a Ph.D. in Economics at University of California, Riverside. 
 
-I will join Cirque Analytics as Associate in 2024. 
+I will join Cirque Analytics as Associate in August 2024. 
 
 My research interests are in Health Economics, Labor Economics, and Development Economics.
 
