@@ -30,7 +30,7 @@ This report offers a comprehensive exploration of the Transportation, Distributi
 
 ****
 ## Working Paper
-### Employment and Sleep Patterns
+### [Employment and Sleep Patterns] (https://www.jingyanguo.com/files/Jingyan_Guo_Employment_Paper_May_15_2024.pdf)
 
 This paper examines how employment rates affect sleep patterns, using data from the American Time Use Survey (ATUS) and Local Area Unemployment Statistics (LAUS) from 2003 to 2022. Research suggests that while weekday sleep is countercyclical, weekend sleep is procyclical, with employed individuals sleeping more on weekends to compensate for shorter weekday sleep. The results show that a 1 percentage point increase in the employment-to-population rate reduces average sleep duration by approximately 1 minute and weekday sleep by around 2 minutes. This effect is less pronounced when using the data from 2003-2022, likely due to the increase in telework following the COVID-19 pandemic. Additionally, industries with a higher concentration of telework experience smaller decreases in sleep with increasing employment. Heterogeneous analysis shows that minorities, less educated individuals, women, and single adults face greater reductions in sleep during weekdays.
 
