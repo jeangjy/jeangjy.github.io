@@ -19,5 +19,5 @@ I will join Cirque Analytics as Associate in August 2024.
 
 My research interests are in Health Economics, Labor Economics, and Development Economics.
 
-My [CV](https://jingyanguo.com/files/Jingyan_Guo_CV_July_22_2024.pdf) can be found here. 
+My [CV](https://jingyanguo.com/files/Jingyan_Guo_CV_2024.pdf) can be found here. 
 
